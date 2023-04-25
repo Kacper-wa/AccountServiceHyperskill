@@ -12,7 +12,7 @@
 - Role model
 - Spring Beans, Components and Configurations
 
-APIs and Access Levels
+###APIs and Access Levels
 The following table lists the APIs included in the project and the access levels required to use them:
 
 | API Endpoint              | Anonymous | User | Accountant | Administrator | Auditor |
@@ -45,7 +45,8 @@ The project includes logging events for different actions. These events can be u
 | The Administrator has unlocked a user                        | UNLOCK_USER     |
 | The Administrator has deleted a user                         | DELETE_USER     |
 | A user has been blocked on suspicion of a brute force attack | BRUTE_FORCE     |
-How to Use
+
+##How to Use
 To use the project, you will need to have Java and the Spring framework installed on your computer. Once you have these installed, you can download or clone the project repository and run it using an IDE such as Eclipse or IntelliJ IDEA or run it using gradle.
 1. Clone repository
     ```shell
