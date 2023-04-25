@@ -12,7 +12,7 @@
 - Role model
 - Spring Beans, Components and Configurations
 
-### APIs and Access Levels
+APIs and Access Levels
 The following table lists the APIs included in the project and the access levels required to use them:
 
 | API Endpoint              | Anonymous | User | Accountant | Administrator | Auditor |
